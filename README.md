@@ -5,6 +5,9 @@
 
 <h2>🚀 Projects : </h2>
 
+[CareBoxx: AI-Enhanced Home Monitoring for Epileptic & Elderly Patients](https://github.com/triki-youssef/CareBox-/edit/main/README.md)
+
+
  [Track Based-Robot for Tool Retrieval and Return in Industrial Workspaces](https://github.com/triki-youssef/Track-Based-Robot-for-Tool-Retrieval-and-Return-in-Industrial-Workspaces)
 
  
