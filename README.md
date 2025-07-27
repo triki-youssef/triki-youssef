@@ -5,8 +5,8 @@
 
 <h2>🚀 Projects : </h2>
 
- <p>[Track Based-Robot for Tool Retrieval and Return in Industrial Workspaces](https://github.com/triki-youssef/Track-Based-Robot-for-Tool-Retrieval-and-Return-in-Industrial-Workspaces)</p>
-[Smart Safety-Glove System for Woodcutting Operators](https://github.com/triki-youssef/Smart-Safety-Glove-System-for-Woodcutting-Operators/tree/main/G-Wiring)
+ <h5>[Track Based-Robot for Tool Retrieval and Return in Industrial Workspaces](https://github.com/triki-youssef/Track-Based-Robot-for-Tool-Retrieval-and-Return-in-Industrial-Workspaces)</h5>
+<h5>[Smart Safety-Glove System for Woodcutting Operators](https://github.com/triki-youssef/Smart-Safety-Glove-System-for-Woodcutting-Operators/tree/main/G-Wiring)</h5>
 
 
 
