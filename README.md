@@ -31,7 +31,7 @@
 
 
 
-[🔋  Smart-Solar-Power-Bank](https://github.com/triki-youssef/Smart-Solar-Power-Bank-Project/blob/main/README.md) 
+[🔋  Smart-Solar-Power-Bank](https://github.com/triki-youssef/Smart-Solar-Power-Bank-Project/tree/main) 
 
 
 
