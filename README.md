@@ -26,7 +26,12 @@
 
 
 
-[🏠 Bluetooth Home Automation System](https://github.com/triki-youssef/Bluetooth-Home-Automation-System)
+[🏠 Bluetooth Home Automation System](https://github.com/triki-youssef/Bluetooth-Home-Automation-System) 
+
+
+
+
+[🔋  Smart-Solar-Power-Bank](https://github.com/triki-youssef/Smart-Solar-Power-Bank-Project/blob/main/README.md) 
 
 
 
