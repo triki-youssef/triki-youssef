@@ -8,6 +8,13 @@
 [ 🚨🩺📱CareBoxx: AI-Enhanced Home Monitoring for Epileptic & Elderly Patients](https://github.com/triki-youssef/CareBox-/edit/main/README.md)
 
 
+
+
+[ 🛡️ Fall Detection Belt with Automatic Airbag Deployment](https://github.com/triki-youssef/-Fall-Detection-Belt-with-Automatic-Airbag-Deployment/tree/main)
+
+
+
+
  [ 🤖🔧🚂📦 Track Based-Robot for Tool Retrieval and Return in Industrial Workspaces](https://github.com/triki-youssef/Track-Based-Robot-for-Tool-Retrieval-and-Return-in-Industrial-Workspaces)
 
  
