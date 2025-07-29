@@ -36,6 +36,10 @@
 
 
 
+[🌿 Solar-Powered Smart Irrigation System Monitoring 🌞](https://github.com/triki-youssef/-Solar-Powered-Smart-Irrigation-System-Monitoring-) 
+
+
+
 
 
 
