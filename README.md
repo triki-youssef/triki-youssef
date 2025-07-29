@@ -5,24 +5,24 @@
 
 <h2>🚀 Projects : </h2>
 
-[CareBoxx: AI-Enhanced Home Monitoring for Epileptic & Elderly Patients](https://github.com/triki-youssef/CareBox-/edit/main/README.md)
+[ 🚨🩺📱CareBoxx: AI-Enhanced Home Monitoring for Epileptic & Elderly Patients](https://github.com/triki-youssef/CareBox-/edit/main/README.md)
 
 
- [Track Based-Robot for Tool Retrieval and Return in Industrial Workspaces](https://github.com/triki-youssef/Track-Based-Robot-for-Tool-Retrieval-and-Return-in-Industrial-Workspaces)
+ [ 🤖🔧🚂📦 Track Based-Robot for Tool Retrieval and Return in Industrial Workspaces](https://github.com/triki-youssef/Track-Based-Robot-for-Tool-Retrieval-and-Return-in-Industrial-Workspaces)
 
  
-[Smart Safety-Glove System for Woodcutting Operators](https://github.com/triki-youssef/Smart-Safety-Glove-System-for-Woodcutting-Operators/tree/main/G-Wiring)
+[ 🧤🪚⚡🚨 Smart Safety-Glove System for Woodcutting Operators](https://github.com/triki-youssef/Smart-Safety-Glove-System-for-Woodcutting-Operators/tree/main/G-Wiring)
 
 
 
-[Arduino 2 Wheel Obstacle-Avoiding Robot with Servo Mounted Ultrasonic Sensor](https://github.com/triki-youssef/-Arduino-2-Wheel-Obstacle-Avoiding-Robot-with-Servo-Mounted-Ultrasonic-Sensor
+[ 🤖🛞🔁 Arduino 2 Wheel Obstacle-Avoiding Robot with Servo Mounted Ultrasonic Sensor](https://github.com/triki-youssef/-Arduino-2-Wheel-Obstacle-Avoiding-Robot-with-Servo-Mounted-Ultrasonic-Sensor
 ) 
 
 
-[Arduino Bluetooth-Controlled Car](https://github.com/triki-youssef/-Arduino-Bluetooth-Controlled-Car) 
+[ 🚗🤖 Arduino Bluetooth-Controlled Car 📱 ](https://github.com/triki-youssef/-Arduino-Bluetooth-Controlled-Car) 
 
 
-[Smart Trashbin](https://github.com/triki-youssef/Smart-TrashBin/blob/main/README.md)
+[ 🗑️🤖 Smart Trashbin](https://github.com/triki-youssef/Smart-TrashBin/blob/main/README.md)
 
 
 
@@ -37,6 +37,15 @@
 
 
 [🌿 Solar-Powered Smart Irrigation System Monitoring 🌞](https://github.com/triki-youssef/-Solar-Powered-Smart-Irrigation-System-Monitoring-) 
+
+
+
+
+[ 💨🚨Gas-Leak Alarm System](https://github.com/triki-youssef/Gas-Leak-Alarm-System)  
+
+
+
+
 
 
 
