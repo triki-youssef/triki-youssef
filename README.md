@@ -88,7 +88,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/innov_triki/profilecard/?igsh=MWZ2cmd1YXJ0bDBiZQ==
 [linkedin]: https://www.linkedin.com/in/youssef-triki-672361325/
 
 
