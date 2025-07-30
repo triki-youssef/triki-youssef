@@ -89,7 +89,7 @@
 
 
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/youssef-triki-672361325/
 
 
 
