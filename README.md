@@ -66,9 +66,8 @@
 [🤖➖🚗Line-Follower Robot](https://github.com/triki-youssef/Line-Follower-Robot) 
 
 
-
-
-
+<h2> 📝My CV :</h2>
+https://github.com/user-attachments/files/21511046/Triki.Youssef.CV.pdf
 
 
 
